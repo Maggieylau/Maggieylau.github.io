@@ -30,7 +30,7 @@ var svg = d3.select("#my_dataviz")
 d3.csv("2024_Finances.csv", function(data) {
 
   // Filter a bit the data -> more than 1 million inhabitants
-  data = data.filter(function(d))
+  data = data.filter(function(d)
 
   // Color palette for continents?
   var color = d3.scaleOrdinal()
