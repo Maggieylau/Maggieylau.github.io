@@ -1,26 +1,26 @@
-﻿City,Country,Departure Date,Return Date,# of Days,"Distance (km, roundtrip)"
-Macau,China,"January 12, 2024","January 12, 2024",1, 80 
-Da Nang,Vietnam,"February 12, 2024","February 16, 2024",5," 1,836 "
-Taichung,Taiwan,"March 22, 2024","March 224, 2024",3," 1,440 "
-Phuket,Thailand,"May 31, 2024","June 4, 2024",5," 4,616 "
-Okinawa,Japan,"June 7, 2024","June 10, 2024",4," 2,950 "
-Phuket,Thailand,"June 28, 2024","July 1, 2024",4," 4,616 "
-Singapore,Singapore,"July 30, 2024","August 9, 2024",11," 5,144 "
-Brisbane,Australia,"September 3, 2024","September 10, 2024",8," 13,890 "
-Guilin,China,"October 10, 2024","October 13, 2024",4, 988 
-Shanghai,China,"November 22, 2024","November 24, 2024",3," 2,446 "
-Macau,China,"December 14, 2024","December 19, 2024",6, 80 
-Sacramento,USA,"December 20, 2024","January 6, 2024",18," 22,188 "
-Shenzhen,China,"June 28, 2024","June 28, 2024",1, 52 
-Shenzhen,China,"July 19, 2024","July 19, 2024",1, 52 
-Shenzhen,China,"August 16, 2024","August 16, 2024",1, 52 
-Shenzhen,China,"August 29, 2024","August 29, 2024",1, 52 
-Shenzhen,China,"September 13, 2024","September 13, 2024",1, 52 
-Shenzhen,China,"September 25, 2024","September 25, 2024",1, 52 
-Shenzhen,China,"September 26, 2024","September 26, 2024",1, 52 
-Shenzhen,China,"October 15, 2024","October 15, 2024",1, 52 
-Shenzhen,China,"October 24, 2024","October 24, 2024",1, 52 
-Shenzhen,China,"October 25, 2024","October 25, 2024",1, 52 
-Shenzhen,China,"October 31, 2024","October 31, 2024",1, 52 
-Shenzhen,China,"November 27, 2024","November 27, 2024",1, 52 
-,,,,84," 60,898 "
+﻿City,Country,Departure Date,Return Date,# of Days,"Distance (km, roundtrip)",long1,lat1,long2,lat2
+Macau,China,"January 12, 2024","January 12, 2024",1, 80 ,114.177216,22.302711,113.543877,22.198746
+Da Nang,Vietnam,"February 12, 2024","February 16, 2024",5," 1,836 ",114.177216,22.302711,108.224136,16.075239
+Taichung,Taiwan,"March 22, 2024","March 224, 2024",3," 1,440 ",114.177216,22.302711,120.646744,24.16349
+Phuket,Thailand,"May 31, 2024","June 4, 2024",5," 4,616 ",114.177216,22.302711,98.338089,7.951933
+Okinawa,Japan,"June 7, 2024","June 10, 2024",4," 2,950 ",114.177216,22.302711,127.8013889,26.3358333
+Phuket,Thailand,"June 28, 2024","July 1, 2024",4," 4,616 ",114.177216,22.302711,98.338089,7.951933
+Singapore,Singapore,"July 30, 2024","August 9, 2024",11," 5,144 ",114.177216,22.302711,103.866991,1.354837
+Sunshine Coast,Australia,"September 3, 2024","September 10, 2024",8,13760,114.177216,22.302711,153.066667,-26.65
+Guilin,China,"October 10, 2024","October 13, 2024",4, 988 ,114.177216,22.302711,110.2833333,25.2833333
+Shanghai,China,"November 22, 2024","November 24, 2024",3," 2,446 ",114.177216,22.302711,121.473842,31.230437
+Macau,China,"December 14, 2024","December 19, 2024",6, 80 ,114.177216,22.302711,113.543877,22.198746
+Sacramento,USA,"December 20, 2024","January 6, 2025",18," 22,188 ",114.177216,22.302711,-121.494803,38.580657
+Shenzhen,China,"June 28, 2024","June 28, 2024",1, 52 ,114.177216,22.302711,114.057865,22.543096
+Shenzhen,China,"July 19, 2024","July 19, 2024",1, 52 ,114.177216,22.302711,114.057865,22.543096
+Shenzhen,China,"August 16, 2024","August 16, 2024",1, 52 ,114.177216,22.302711,114.057865,22.543096
+Shenzhen,China,"August 29, 2024","August 29, 2024",1, 52 ,114.177216,22.302711,114.057865,22.543096
+Shenzhen,China,"September 13, 2024","September 13, 2024",1, 52 ,114.177216,22.302711,114.057865,22.543096
+Shenzhen,China,"September 25, 2024","September 25, 2024",1, 52 ,114.177216,22.302711,114.057865,22.543096
+Shenzhen,China,"September 26, 2024","September 26, 2024",1, 52 ,114.177216,22.302711,114.057865,22.543096
+Shenzhen,China,"October 15, 2024","October 15, 2024",1, 52 ,114.177216,22.302711,114.057865,22.543096
+Shenzhen,China,"October 24, 2024","October 24, 2024",1, 52 ,114.177216,22.302711,114.057865,22.543096
+Shenzhen,China,"October 25, 2024","October 25, 2024",1, 52 ,114.177216,22.302711,114.057865,22.543096
+Shenzhen,China,"October 31, 2024","October 31, 2024",1, 52 ,114.177216,22.302711,114.057865,22.543096
+Shenzhen,China,"November 27, 2024","November 27, 2024",1, 52 ,114.177216,22.302711,114.057865,22.543096
+,,,,84," 60,768 ",114.177216,22.302711,114.057865,22.543096
