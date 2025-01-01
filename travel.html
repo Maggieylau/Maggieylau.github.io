@@ -9,6 +9,38 @@
 <body>
 	<h1>2024 in Travels
 	</h1>
+
+	<h2>KMs Travelled</h2>
+    <div id="counter">0</div>
+
+    <script>
+        let upto = 60000;
+        let counts = setInterval(updated, 1);
+
+        function updated() {
+            let count = document.getElementById("counter");
+            count.innerHTML = ++upto;
+            if (upto === 60768) {
+                clearInterval(counts);
+            }
+        }
+	</script>
+
+	<h2>Days Aways</h2>
+    <div id="counter2">0</div>
+
+    <script>
+        let upto2 = 0;
+        let counts2 = setInterval(updated2, 37);
+
+        function updated2() {
+            let count2 = document.getElementById("counter2");
+            count2.innerHTML = ++upto2;
+            if (upto2 === 84) {
+                clearInterval(counts2);
+            }
+        }
+	</script>
 	<!-- Create a div where the graph will take place -->
 	<svg id="my_dataviz" width="900" height="600"></svg>
 	<script>
